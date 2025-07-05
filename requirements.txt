@@ -1,0 +1,8 @@
+streamlit
+pandas
+llama-index
+sentence-transformers
+PyPDF2
+pytube
+whisper
+torch
